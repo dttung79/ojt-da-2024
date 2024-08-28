@@ -1,0 +1,6 @@
+CustomerID,Name,PurchaseAmount,PurchaseDate,ProductCategory
+1,Alice,250.0,2024-08-01,Electronics
+2,Bob,150.5,2024-08-02,Clothing
+3,Charlie,300.75,2024-08-03,Electronics
+4,David,199.99,2024-08-04,Clothing
+5,Eva,120.0,2024-08-05,Accessories
